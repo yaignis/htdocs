@@ -1,1 +1,6 @@
 template.html
+
+*.mp3
+
+.htaccess
+.htpasswd
